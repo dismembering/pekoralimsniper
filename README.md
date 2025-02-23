@@ -1,24 +1,25 @@
-# pekora lim sniper
+# Pekora Limited Sniper  
 
-actual lim sniper this time not just notifs lol leaked 2025 real
+A fully automated Limited sniper—no more just notifications. This is the real deal for 2025.  
 
-tutorial!!!!!!!
+## Features:  
+- Monitors the item releases channel in Discord.  
+- Automatically purchases items when a link is posted.  
+- Requires a webhook, `.ROBLOSECURITY` cookie, and Discord token.  
+- If you encounter SSL errors, consider using a VPN or Cloudflare WARP.  
 
-put ur webhook, cookie, and discord token in script
+**Note:** If this method gets patched, I will not be providing updates.  
 
-auto listens in item releases channel, when link is posted it automatically buys for u, if u get ssl error use a vpn / warp
+## Requirements:  
+- `discord.py-self`  
+- `requests`  
+- `re`  
+- `json`  
 
-if this gets patched i wont update it because supra is a jew
+## Troubleshooting:  
+- If you encounter errors, you may need to manually obtain a CSRF token.  
+- In case the seller starts validating CSRF tokens, you might need to implement a function to fetch them for every request.  
 
-no rat u can check idrc to rat anymore i got 3 hits off last one
+No hidden malware—feel free to inspect the code.
 
-# requirements
-
-discord.py-self
-requests
-re
-json
-
-# IF U GET SOKME SHITTY ERROR IDRK
-
-u might need to get ur own csrf token, i dont care to tell u how to do that and idk if shika is finally validating his csrf tokens so u might need to write ur own function to get them every request
+written by chatgpt
