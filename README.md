@@ -18,3 +18,7 @@ discord.py-self
 requests
 re
 json
+
+# IF U GET SOKME SHITTY ERROR IDRK
+
+u might need to get ur own csrf token, i dont care to tell u how to do that and idk if shika is finally validating his csrf tokens so u might need to write ur own function to get them every request
