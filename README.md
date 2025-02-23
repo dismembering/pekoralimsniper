@@ -18,8 +18,8 @@ A fully automated Limited sniper—no more just notifications. This is the real 
 
 ## Troubleshooting:  
 - If you encounter errors, you may need to manually obtain a CSRF token.  
-- In case the seller starts validating CSRF tokens, you might need to implement a function to fetch them for every request.  
+- In case Shika starts validating CSRF tokens, you might need to implement a function to fetch them for every request.  
 
 No hidden malware—feel free to inspect the code.
 
-written by chatgpt
+readme written by chatgpt
