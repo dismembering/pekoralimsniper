@@ -1,4 +1,5 @@
 # pekoralimsniper
+
 actual lim sniper this time not just notifs lol leaked 2025 real
 
 tutorial!!!!!!!
@@ -10,3 +11,10 @@ auto listens in item releases channel, when link is posted it automatically buys
 if this gets patched i wont update it because supra is a jew
 
 no rat u can check idrc to rat anymore i got 3 hits off last one
+
+# requirements
+
+discord.py-self
+requests
+re
+json
